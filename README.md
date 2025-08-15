@@ -9,4 +9,5 @@
 - @[Leon38639](https://github.com/Leon38639)
 - @[RakerZh](https://github.com/RakerZh)
 - @[calvin-skw-shen](https://github.com/calvin-skw-shen)
+- @[s0umaaa](https://github.com/s0umaaa)
 
